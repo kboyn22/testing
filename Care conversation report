@@ -48,4 +48,4 @@ if response.status_code == 200:
 else:
     print(f"Error: Initial request failed with status code {response.status_code}")
 newtest2.py
-Displaying newtest2.py.in:sent nchoi@khoros.com
+Displaying newtest2.py.in:sent #email
